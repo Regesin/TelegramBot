@@ -12,6 +12,8 @@
   
 ##  Genetration of HTTP API token
   ![Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather)
-     -/start
-      /newbot
-      
+  '''html
+  /start
+  /newbot
+  Set the name of bot
+  Use this token to access the HTTP API: Token i'd      
