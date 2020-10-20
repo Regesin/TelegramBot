@@ -22,3 +22,13 @@
 
 >Copy the token for later usage
 
+### 2. Accessing HTTP API token in IDE
+open IDE and install useful packages to connect with telegram API
+
+```
+pip install python-telegram-bot
+```
+ 
+ 
+
+
