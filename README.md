@@ -10,7 +10,7 @@
   2. Accessing HTTP API token in IDE
   3. Writing code to use inbuilt functions in Telegram Bot
   
-##  Genetration of HTTP API token
+### 1. Genetration of HTTP API token
   [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather)
   ```
   /start
