@@ -16,4 +16,5 @@
   /start
   /newbot
   Set the name of bot
-  Use this token to access the HTTP API: Token i'd      
+  Use this token to access the HTTP API: Token i'd 
+  '''
