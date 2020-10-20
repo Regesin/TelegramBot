@@ -47,7 +47,6 @@ def main():
     )
  
  ```
- 
 ## Sample screenshots
 ![](https://github.com/Regesin/telegrambot/blob/main/sample01.jpg)
 ![](https://github.com/Regesin/telegrambot/blob/main/sample02.jpg)
