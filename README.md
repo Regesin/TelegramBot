@@ -18,5 +18,5 @@
   Set the name of bot
   Use this token to access the HTTP API: Token i'd 
   ```
-![imagefile](images/telegrambotfather.png)
+![](https://github.com/Regesin/telegrambot/blob/main/telegrambotfather.png)
 
