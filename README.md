@@ -11,7 +11,7 @@
   3. Writing code to use inbuilt functions in Telegram Bot
   
 ##  Genetration of HTTP API token
-  ![Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather)
+  [Telegram Bot Father](https://web.telegram.org/#/im?p=@BotFather)
   ```
   /start
   /newbot
