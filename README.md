@@ -17,4 +17,5 @@
   /newbot
   Set the name of bot
   Use this token to access the HTTP API: Token i'd 
+  ![](images/telegrambotfather.png)
   ```
