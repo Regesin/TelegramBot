@@ -19,5 +19,6 @@
   As seen in below image token is marked in red colour
   ```
 ![](https://github.com/Regesin/telegrambot/blob/main/telegrambotfather.png)
--Copy the token for later usage
+
+>Copy the token for later usage
 
