@@ -49,7 +49,7 @@ def main():
  ```
  
 ## Sample screenshots
-![](https://github.com/Regesin/telegrambot/blob/main/sample01.jpg | width=100)
+![](https://github.com/Regesin/telegrambot/blob/main/sample01.jpg)
 ![](https://github.com/Regesin/telegrambot/blob/main/sample02.jpg)
 ![](https://github.com/Regesin/telegrambot/blob/main/sample03.jpg)
 ![](https://github.com/Regesin/telegrambot/blob/main/sample04.jpg)
