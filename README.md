@@ -28,26 +28,26 @@ open IDE and install useful packages to connect with telegram API
 ```
 pip install python-telegram-bot
 ```
-
-
+```
+def main():
+    # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
-    # Post version 12 this will no longer be necessary
-    updater = Updater("Place your Token  Here", use_context=True)
+    updater = Updater("Place your Token i'd Here", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
 
-    # Add conversation handler with the states GENDER, PHOTO, LOCATION and BIO
     conf_handler = ConversationHandler(
         entry_points=[CommandHandler('start', start)],
 
         states={
-            States that you want to perform
+
         },
 
         fallbacks=[CommandHandler('cancel', cancel)]
     )
  
+ ```
  
 
 
