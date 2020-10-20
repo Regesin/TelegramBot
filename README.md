@@ -16,7 +16,8 @@
   /start
   /newbot
   Set the name of bot
-  Use this token to access the HTTP API: Token i'd 
+  As seen in below image token is marked in red colour
   ```
 ![](https://github.com/Regesin/telegrambot/blob/main/telegrambotfather.png)
+-Copy the token for later usage
 
